@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\AMK_School\CTasks\Task1\Task1\Source.cpp(5,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Task1.vcxproj -> D:\AMK_School\CTasks\Task1\x64\Debug\Task1.exe
